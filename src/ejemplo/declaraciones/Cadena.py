@@ -7,6 +7,18 @@ Created on 23-04-2016
 '''
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 def textoSimple():
     print("Esto es un texto")
     

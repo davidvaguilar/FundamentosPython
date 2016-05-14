@@ -6,6 +6,7 @@ Created on 23-04-2016
 '''
 from pip._vendor.distlib.compat import raw_input
 
+
 def siSimple():
     x=int (raw_input("Ingrese un numero, por favor:"))
     if(x==2):
